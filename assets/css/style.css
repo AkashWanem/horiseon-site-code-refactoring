@@ -59,6 +59,9 @@ p {
     background-position: center;
 }
 
+#flex {
+    display: flex;
+}
 .content {
     width: 75%;
     display: inline-block;
